@@ -10,6 +10,8 @@ div.main-container-about  {
     column-gap: 25px;
     justify-content: center;
     align-content: center;
+
+    transform: translateY(-15vh);
 }
 
 
