@@ -94,7 +94,7 @@ span.blue  {
     color: var(--secondary-lightBlue);
 }
 
-a.heading-list, p.author, .header03, .read-more, .footer-text {
+a.heading-list, p.author, .header03, .read-more, .footer-text, .get-to-know-btn {
     font-family: 'Jost', sans-serif;
     font-weight: 400;
 }
